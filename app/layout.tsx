@@ -6,16 +6,16 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
 	title: {
-		default: "chronark.com",
-		template: "%s | chronark.com",
+		default: "Zigao Wang",
+		template: "%s | Zigao Wang",
 	},
-	description: "Software engineer at upstash.com and founder of planetfall.io",
+	description: "A passionate, hyper-active Frontend developer from China",
 	openGraph: {
-		title: "chronark.com",
+		title: "Zigao Wang",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"A passionate, hyper-active Frontend developer from China",
+		url: "https://i.zigaow.com",
+		siteName: "Zigao Wang",
 		images: [
 			{
 				url: "https://chronark.com/og.png",
@@ -36,10 +36,6 @@ export const metadata: Metadata = {
 			"max-image-preview": "large",
 			"max-snippet": -1,
 		},
-	},
-	twitter: {
-		title: "Chronark",
-		card: "summary_large_image",
 	},
 	icons: {
 		shortcut: "/favicon.png",
