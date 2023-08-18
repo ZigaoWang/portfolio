@@ -6,22 +6,16 @@ import { Card } from "../components/card";
 
 const socials = [
 	{
-		icon: <Twitter size={20} />,
-		href: "https://twitter.com/chronark_",
-		label: "Twitter",
-		handle: "@chronark_",
-	},
-	{
 		icon: <Mail size={20} />,
-		href: "mailto:dev@chronark.com",
+		href: "mailto:z@zigao.xyz",
 		label: "Email",
-		handle: "dev@chronark.com",
+		handle: "z@zigao.xyz",
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/chronark",
-		label: "Github",
-		handle: "chronark",
+		href: "https://github.com/ZigaoWang",
+		label: "GitHub",
+		handle: "ZigaoWang",
 	},
 ];
 
