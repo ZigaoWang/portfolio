@@ -17,6 +17,12 @@ const socials = [
 		label: "GitHub",
 		handle: "ZigaoWang",
 	},
+	{
+		icon: <Website size={20} />,
+		href: "https://zigaow.com",
+		label: "Website",
+		handle: "www.zigaow.com",
+	},
 ];
 
 export default function Example() {
